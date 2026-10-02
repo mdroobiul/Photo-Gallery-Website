@@ -33,11 +33,7 @@ export default function AboutSection() {
             </h2>
             <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4">
               Hi, I'm <span className="font-semibold text-white">MD Robiul</span>! I’m Md Robiul Islam, skilled
-in marketing and computer
-operations. I’m
-hardworking, fast learner,
-and ready to take new
-challenges.
+                in marketing and computeroperations. I’mhardworking, fast learner,and ready to take newchallenges.
 
             </p>
 

@@ -7,10 +7,10 @@ import AboutSection from './components/AboutSection';
 export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedAlbum, setSelectedAlbum] = useState('ALL');
-  const [darkMode, setDarkMode] = useState(true); // ডিফল্ট ডার্ক মোড অন রাখার জন্য
+  const [darkMode, setDarkMode] = useState(true); 
   const [activeModalPhoto, setActiveModalPhoto] = useState(null);
   
-  // ১. পেজ নেভিগেশনের জন্য স্টেট
+
   const [activeTab, setActiveTab] = useState('home');
 
   return (

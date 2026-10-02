@@ -15,7 +15,7 @@ export default function Header({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           
-          {/* লোগো অথবা নামে ক্লিক করলে হোম পেইজে নিয়ে যাবে */}
+          
           <button 
             onClick={() => setActiveTab && setActiveTab('home')}
             className="flex items-center space-x-3 group cursor-pointer text-left focus:outline-none"
